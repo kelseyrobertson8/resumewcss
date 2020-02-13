@@ -1,0 +1,49 @@
+body {
+		font-family: 'Nunito', sans-serif;
+		color: #56445D;
+	background-color: #F3DAD8;
+}
+
+h1, h2, h3, h4 {font-family: 'Oswald', Cambria, "Hoefler Text", "Liberation Serif", "Times New Roman", "serif";
+				color: #86626E;					
+}
+
+h1 { font-size: 200%;}
+h2, h3 {font-size: 150%;}
+h4 {font-size: 120%;}
+
+#contact {background-color: #E2E4F6;
+	background-image: url("cloud.jpg");
+	text-align: center;
+	}
+
+ul {list-style-image: url("bullet.png");
+	list-style-position: inside;
+	margin: 0;
+	padding: 0; 
+}
+
+#contact p { color: #86626E;}
+
+
+a:link {
+  color: #6B5E62;
+	text-decoration: none;
+}
+
+
+a:visited {
+  color: #F4ACB7;
+}
+
+
+a:hover {
+  color: #4A6C6F;
+	font-weight: bold;
+}
+
+
+a:active {
+  color: #416165;  
+}
+
